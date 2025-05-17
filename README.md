@@ -1,6 +1,6 @@
 # 🧪 API REST com Spring Boot
 
-Este projeto é uma API REST simples feita com Spring Boot que gerencia usuários (User) em memória. A API permite criar, listar, atualizar e remover usuários via requisições HTTP.
+Este projeto é uma API REST simples feita com Spring Boot que gerencia usuários em memória. A API permite criar, listar, atualizar e remover usuários via requisições HTTP.
 
 ---
 
